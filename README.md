@@ -11,7 +11,7 @@ _TThis app displays all prime numbers up to the number a person enters._
 ## Setup
 
 - clone in desktop
-- open palindromes.html in web browser
+- open prime.html in web browser
 
 ## Technologies Used
 
