@@ -9,7 +9,6 @@ var primeSifting = function(userNumber) {
       if (numberToCheck % prime === 0) {
         if (prime != numberToCheck) {
           var removeThisNumber = list.indexOf(numberToCheck);
-          debugger;
           list.splice(removeThisNumber, 1);
         }
       }
